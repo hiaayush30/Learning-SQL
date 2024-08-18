@@ -1,3 +1,5 @@
+mongosh //local
+mongosh connection_string //atlas
 cls - clear screen
 show dbs
 use users // will create db -users
